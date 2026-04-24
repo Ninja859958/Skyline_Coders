@@ -385,7 +385,6 @@ textarea {
 @media only screen and (min-width: 250px) and (max-width: 600px)  {
     * {
         display: block;
-        margin-bottom: 5px;
     }
 
     img {
