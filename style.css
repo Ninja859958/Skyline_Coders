@@ -249,7 +249,7 @@ li {
   width: 80px;
   height: 80px;
   transition: transform 0.3s ease;
-  margin-left: 1000%;
+  margin-left: 50%;
 }
 
 .social a img:hover {
@@ -403,6 +403,11 @@ textarea {
         margin-right: 0%;
         margin-left: 5%;
     }
+    .social {
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
 }
 
 /* Media queries para dispositivos de tela média (tablets) */
