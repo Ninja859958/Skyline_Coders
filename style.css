@@ -93,11 +93,12 @@ figcaption {
   width: 100%;
   max-width: 450px;
   height: auto;
-  border-radius: 6px;
+  border-radius: 15px;
 }
 
 .image-wrap .img-text {
   position: absolute;
+  margin-left: 2%;
   bottom: 30px; /* sobe o texto um pouco */
   color: #000000; /* azul escuro */
   font-weight: 800;
