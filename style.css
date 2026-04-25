@@ -100,7 +100,7 @@ figcaption {
   position: absolute;
   margin-left: 2%;
   bottom: 30px; /* sobe o texto um pouco */
-  color: #000000; /* azul escuro */
+  color: #080808; /* azul escuro */
   font-weight: 800;
   font-size: clamp(16px, 3.5vw, 28px);
   padding: 8px 18px;
